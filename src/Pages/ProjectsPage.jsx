@@ -26,6 +26,7 @@ function ProjectsPage() {
               show presentation
             </a>
           </li>
+          <hr className="border-2 bg-black h-1" />
           <li>
             1st mid term - september 10, 2024
             <p className="font-light text-md py-8">
@@ -36,6 +37,7 @@ function ProjectsPage() {
               fileName="1st-mid-term.docx"
             />
           </li>
+          <hr className="border-2 bg-black h-1" />
           <li>
             2nd mid term - october 21, 2024
             <p className="font-light text-md py-8">
@@ -47,6 +49,7 @@ function ProjectsPage() {
               fileName="2nd-mid-term.docx"
             />
           </li>
+          <hr className="border-2 bg-black h-1" />
           <li>
             samr model activity - august 26, 2024
             <p className="font-light text-md py-8">
@@ -55,6 +58,7 @@ function ProjectsPage() {
             </p>
             <PdfViewer pdfUrl="Docs/SAMR.pdf" />
           </li>
+          <hr className="border-2 bg-black h-1" />
           <li>
             plb - september 02, 2024
             <p className="font-light text-md py-8">
@@ -63,6 +67,7 @@ function ProjectsPage() {
             </p>
             <PdfViewer pdfUrl="Docs/PBL.pdf" />
           </li>
+          <hr className="border-2 bg-black h-1" />
           <li>
             poster - september 02, 2024
             <p className="font-light text-md py-8">
